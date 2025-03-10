@@ -1,0 +1,22 @@
+{
+    "Heading 1": {
+        "font": "宋体",
+        "size": 16,
+        "bold": true
+    },
+    "Heading 2": {
+        "font": "宋体",
+        "size": 14,
+        "bold": true
+    },
+    "Heading 3": {
+        "font": "宋体",
+        "size": 12,
+        "bold": true
+    },
+    "Heading 4": {
+        "font": "宋体",
+        "size": 12,
+        "bold": false
+    }
+}
